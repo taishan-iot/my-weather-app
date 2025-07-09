@@ -1,0 +1,21 @@
+{
+  "name": "即時氣象查詢",
+  "short_name": "氣象查詢",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#182848",
+  "theme_color": "#182848",
+  "description": "簡單快速的即時氣象查詢 PWA 應用",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
